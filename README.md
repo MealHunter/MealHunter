@@ -10,7 +10,7 @@ I'm a passionate software developer with experience in full-stack development, s
 - 🌱 I’m currently learning [Technology/Language]
 - 👯 I’m looking to collaborate on [Open Source Project/Interesting Projects]
 - 💬 Ask me about [Topics you're interested in]
-- 📫 How to reach me: [your.email@example.com]
+- 📫 How to reach me: [2359942348@qq.com]
 - ⚡ Fun fact: [A fun fact about you]
 
 ## 🛠️ My Skills
