@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm [Your Name]!
 
-![Your Banner Image](https://github.com/yourusername/yourrepositoryname/blob/main/banner.png)
 
 ## 🚀 About Me
 
