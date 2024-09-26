@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [MealHunter]!
+# 👋 Hi there, I'm MealHunter!
 
 
 ## 🚀 About Me
