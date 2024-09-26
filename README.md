@@ -18,7 +18,7 @@ I'm a passionate software developer with experience in full-stack development, s
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![Linux]
+
 
 ### Technologies:
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
