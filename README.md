@@ -41,7 +41,7 @@ I'm a passionate software developer with experience in full-stack development, s
 <h2 align="center">💻 Languages, Frameworks & Tools ⚙️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,c,github,gitlab,mysql,opencv,postman,pycharm,py,vscode,visualstudio,pytorch,anaconda,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,c,github,gitlab,mysql,opencv,postman,pycharm,py,vscode,visualstudio,pytorch,anaconda,&perline=7" />
   </a>
 </p>
 
