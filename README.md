@@ -19,16 +19,6 @@ I'm a passionate software developer with experience in full-stack development, s
     <img src="https://skillicons.dev/icons?i=git,linux,c,github,gitlab,mysql,opencv,postman,pycharm,py,vscode,visualstudio,pytorch,anaconda,&perline=7" />
   </a>
 </p>
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=monokai)
-
 ## ✍️ Latest Blog Posts
 https://yangyongbiao.hashnode.dev/
 <!-- BLOG-POST-LIST:START -->
